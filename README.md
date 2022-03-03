@@ -1,5 +1,5 @@
 - class AboutMe{
-    public static vod main(String[] args)
+    public static void main(String[] args)
     {
         System.out.println("Hi, I’m @Chandru M A"); 
         System.out.println("I’m interested in coding");
